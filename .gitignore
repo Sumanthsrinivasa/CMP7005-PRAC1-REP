@@ -1,0 +1,5 @@
+# Ignore the data raw directory
+data/raw/
+
+# Ignore model file
+models/best_model.pkl
